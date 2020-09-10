@@ -38,7 +38,7 @@ CREATE TABLE `items` (
 --
 
 INSERT INTO `items` (`id`, `name`, `price`) VALUES
-(1, 'Canon EOS', 36000),
+(1, 'Ashish EOS', 36000),
 (2, 'Nikon DSLR', 40000),
 (3, 'Sony DSLR', 45000),
 (4, 'Olympus DSLR', 50000),
